@@ -1,3 +1,5 @@
+# This script was created with assistance from ChatGPT, an AI language model developed by OpenAI.
+
 import urllib.request
 import json
 import sys
